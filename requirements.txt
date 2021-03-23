@@ -1,0 +1,12 @@
+ai2thor==2.7.2
+allenact
+allenact_plugins[ithor]
+numpy
+torch>1.6.0
+torchvision>=0.7.0
+matplotlib
+scipy
+stringcase
+lru-dict
+networkx
+compress-pickle==1.2.0
